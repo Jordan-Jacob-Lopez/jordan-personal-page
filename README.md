@@ -1,5 +1,3 @@
-# hello-world
-Getting started with understanding GitHub
+# jordan-personal-page
 
-
-Who would've thought I would be learning how to teach myself how to code... Anyways time to learn GitHub.
+This repository will be used to develop anything related to jordans personal page
